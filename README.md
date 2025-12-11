@@ -68,8 +68,3 @@ No license file is included in the repository. If you want this project to be op
 Owner: SohamB4746Y — https://github.com/SohamB4746Y
 
 ---
-
-Would you like me to:
-- Add this README to the repository (I can create/update README.md)?
-- Generate an MIT license file?
-- Create a short CONTRIBUTING.md or CHANGELOG?
